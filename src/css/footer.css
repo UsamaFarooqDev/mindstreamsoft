@@ -1,0 +1,32 @@
+.footer{
+    padding-top: 5vh;
+   
+    margin-top: 5%;
+    color: white;
+    background: url('../images/panel_bg.png');
+    background-color: #1e2b39;
+}
+.footer ul {
+    list-style: none;
+    margin-top: 20px;
+   
+}
+.footer ul li{
+    text-align: centers;
+    display: inline;
+    margin-left: 15px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+.cc{
+    background-color: #F9A31E;
+    color: #fff;
+  
+   
+  
+}
+.cc p{
+    padding-top: 10px;
+}
